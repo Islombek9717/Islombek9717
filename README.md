@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Islombek9717
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently doing Houzing project 
 - 📫 How to reach me https://portfolio-of-islombek.netlify.app/
 
 <!---
